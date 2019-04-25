@@ -1,5 +1,5 @@
 ## GIT命令使用技巧
-
+```
 --1.拉取和上传
 git pull
 git push 
@@ -92,6 +92,6 @@ $ git push origin –tags
 1.git tag   查看当前分支下的标签
 2.git  checkout v0.21   此时会指向打v0.21标签时的代码状态，（但现在处于一个空的分支上）
 3. cat  test.txt   查看某个文件
-
+```
 廖雪峰git博客地址：
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
